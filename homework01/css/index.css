@@ -1,0 +1,45 @@
+*{margin: 0;padding: 0}
+
+.top{
+    line-height: 50px;
+    background-color: #FFC0CB;
+    color: white;
+    text-align: center;
+}
+h3:hover{
+    color: #F6F6F6;
+}
+
+.center{
+    width: 400px;
+    margin: 0 auto;
+
+}
+h4:hover{
+    color: #F6F6F6;
+}
+
+.images{
+    display: block;
+    width: 400px;
+    height: 250px;
+    text-align: center;
+}
+.p1:hover{
+   color: #FFCBE1;
+}
+li:hover{
+color: #FF1493;
+}
+li{
+    padding: 5px;
+}
+.dl:hover{
+    color: #FF1493;
+}
+dt{
+    margin-top: 15px;
+}
+dd{
+    margin-top: 5px;
+}
